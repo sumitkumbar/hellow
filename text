@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+ 
+<body>
+ 
+    <div class="nevdiv">
+       
+         <nav class="nevbar">
+          
+          
+             <input style="width: 400px;background:linear-gradient();padding-left: 20px; border-radius: 30px; font-weight:900px;
+             font-size: 20px;" class="search" type="search" placeholder="search">
+
+        <a class="nevmenu" id="about" href="#">about us</a>
+          <a  class="nevmenu" href="#">contact us</a>
+            <a  class="nevmenu" href="#">manu</a>
+              <a  class="nevmenu" href="#">info</a>
+              <a style="font-family: sans-serif;font-weight: bolder;border: 2px soild whitesmoke;margin-left: 400px;
+              font-size: 30px;"><b>KALLA DARBAR</b></a>
+
+    </nav> 
+         
+    </div>
+    <hr>
+   
+    <section class="demo">
+        <div id="btn" class="tit">
+            <img id="btn"  src="IMG-20180627-WA0088.jpg">
+            
+            <p id="btn"  class="text">this is a scallel image if  anancient  </p>
+            <price id="btn"  class="prices">RS 100</price>
+            
+   
+          
+        </div>
+        <div class="tit">
+             <img src="IMG-20180627-WA0072.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price>
+            
+        </div>
+         <div class="tit"><img src="IMG-20180627-WA0088.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price></div>
+          <div class="tit"><img src="IMG-20180627-WA0072.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price></div>
+           <div class="tit"><img src="IMG-20180627-WA0072.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price></div>
+    </section>
+    <section class="demo">
+        <div class="tit">
+            <img src="IMG-20180627-WA0088.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price>
+            
+   
+          
+        </div>
+        <div class="tit">
+             <img src="IMG-20180627-WA0072.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price>
+            
+        </div>
+         <div class="tit"><img src="IMG-20180627-WA0088.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price></div>
+          <div class="tit"><img src="IMG-20190323-WA0010.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price></div>
+           <div class="tit"><img src="IMG-20180627-WA0072.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price></div>
+    </section>
+    <section class="demo">
+        <div class="tit">
+            <img src="IMG-20180627-WA0088.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price>
+            
+   
+          
+        </div>
+        <div class="tit">
+             <img src="IMG-20180627-WA0072.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price>
+            
+        </div>
+         <div class="tit"><img src="IMG-20180627-WA0088.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price></div>
+          <div class="tit"><img src="IMG-20180627-WA0072.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price></div>
+           <div class="tit"><img src="IMG-20180627-WA0072.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price></div>
+    </section>
+    <section class="demo">
+        <div class="tit">
+            <img src="IMG-20180627-WA0088.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price>
+            
+   
+          
+        </div>
+        <div class="tit">
+             <img src="IMG-20180627-WA0072.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price>
+            
+        </div>
+         <div class="tit"><img src="IMG-20180627-WA0088.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price></div>
+          <div class="tit"><img src="IMG-20180627-WA0072.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price></div>
+           <div class="tit"><img src="IMG-20180627-WA0072.jpg">
+            
+            <p class="text">this is a scallel image if  anancient  </p>
+            <price class="prices">RS 100</price></div>
+    </section>
+    <footer  class="foot">
+           <h3>name:<a>sumitkumbar27@gmail.com</a></h3>
+            <h3>phone:<a>9871668492</a></h3>
+          
+            <h3>email</h3>
+            <input style="width: 300px;border-radius: 30px;border: 2px solid black;
+             height: 50px; font-weight: bold;padding-left: 30px;" type="email"placeholder="email">
+              <!-- <label>message</label>
+            <input style="width: 300px;border-radius: 30px;background-color: coral;border: 2px solid black;
+             height: 50px;font-weight: bold;" type="text" placeholder="message">
+    </footer> -->
+    <br>
+    <br>
+    <br>
+
+         <h3>message</h3>
+     <input style="width: 300px;border-radius: 30px;;border: 2px solid black;
+             height: 50px;font-weight: bold; padding-left: 30px;" type="text" placeholder="message">
+    </footer>
+    <script src="index.js"></script>
+</body>
+</html>
